@@ -5,7 +5,7 @@ Final project for the Building AI course
 
 ## Summary
 
-In online maps like [Google Maps](maps.google.com/) and
+In online maps like [Google Maps](https://maps.google.com/) and
 [OpenStreetMap](https://www.openstreetmap.org/) one can view the world at
 different zoom levels. But what if you are already looking at the highest
 available zoom level of the area or you are not satisfied with the reality?
@@ -39,7 +39,7 @@ Especially the description of pix2pix suggests that it could be at least tested
 for the problem at hand.
 
 
-In online maps like [Google Maps](maps.google.com/) and
+In online maps like [Google Maps](https://maps.google.com/) and
 [OpenStreetMap](https://www.openstreetmap.org/) one can view the world at
 different zoom levels. Low zoom levels show few details, like country names and
 borders.
@@ -61,7 +61,7 @@ arranges items in the view.
 Map view from Turku, Finland, with high-level zoom (from OpenStreetMap):
 ![High-level zoom](./img/turku-2020-12-27-13-03-09.png)
 
-Extract from the low-level zoomed image produced by bigjpg.com ![Extract from
+Extract from the low-level zoomed image produced by bigjpg.com: ![Extract from
 the low-level zoomed image produced by
 bigjpg.com](./img/turku-2020-12-27-13-02-03-big-extract.jpg)
 
