@@ -137,4 +137,3 @@ After that is done one can plan further improvements.
 * [AMBERER](https://amberer.gitlab.io/papers_in_ai/img2img-translation.html)
 * [OpenStreetMap.org](https://www.openstreetmap.org/)
 * [bigjpg.com](https://bigjpg.com/)
-* [elementai.com](https://www.elementai.com/news/2019/computer-enhance-please)
